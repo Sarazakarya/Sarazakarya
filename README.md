@@ -52,15 +52,6 @@ A passionate 👩‍💻 **Frontend Developer** and a graduate of Computer & Inf
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarazakarya&show_icons=true&theme=vue-dark" height="130" alt="Sara's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarazakarya&layout=compact&theme=vue-dark" height="130" alt="Sara's Languages" />
-</p>
-
----
-
 ### 📬 Let's Connect!
 
 <p align="center">
@@ -71,4 +62,4 @@ A passionate 👩‍💻 **Frontend Developer** and a graduate of Computer & Inf
 
 ---
 
-> *"Code is poetry, and every commit tells a story"* ⭐
+> *"Building digital experiences where performance meets elegance."* ✨
