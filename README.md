@@ -15,7 +15,7 @@ A passionate 👩‍💻 **Frontend Developer** and a graduate of Computer & Inf
 
 <div align="center">
   <marquee behavior="scroll" direction="left" scrollamount="4">
-    <img src="https://skillicons.dev/icons?i=github,js,ts,react,nextjs,redux,tailwind,html,css,git&theme=dark" alt="Tech Stack" height="25" />
+    <img src="https://skillicons.dev/icons?i=github,js,ts,react,nextjs,redux,tailwind,html,css,git&theme=dark" alt="Tech Stack" height="45" />
   </marquee>
 </div>
 
