@@ -60,6 +60,4 @@ A passionate 👩‍💻 **Frontend Developer** and a graduate of Computer & Inf
   </a>
 </p>
 
----
 
-> *"Building digital experiences where performance meets elegance."* ✨
